@@ -22,6 +22,7 @@ Scheme
 		"slash_white"		"255 255 255 255"
 		"slash_yellow"		"255 255 0 255"
 		"slash_red"		    "255 0 0 255"
+		"slash_green"		"0 200 0 255"
 		
 		
 		
@@ -3046,12 +3047,57 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		next_art_50
+		{
+			"1"
+			{
+				"name"		"NEXTART"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		next_art_40
+		{
+			"1"
+			{
+				"name"		"NEXTART"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		next_art_30
+		{
+			"1"
+			{
+				"name"		"NEXTART"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
 		next_art_20
 		{
 			"1"
 			{
 				"name"		"NEXTART"
 				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		next_art_15
+		{
+			"1"
+			{
+				"name"		"NEXTART"
+				"tall"		"15"
+				"antialias" "1"
+			}
+		}
+		next_art_10
+		{
+			"1"
+			{
+				"name"		"NEXTART"
+				"tall"		"10"
 				"antialias" "1"
 			}
 		}
